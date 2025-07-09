@@ -1,4 +1,4 @@
-# rePaCK_TKS
+# rePaCK TKS
 Tool for unpacking and packing of .PCK files offered in ANIM and CROWD visual novel games.
 
 ### How are PCK files structured?
